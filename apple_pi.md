@@ -54,7 +54,7 @@ This guide will help you design a PI chain for:
       * Organic Mortar Applicators
       * Sterile Conduits
 
-     To create the P4, you need 8 "paired" Raw Materials and 1 stand-alone Raw Material. Each of our 4 extraction planets will extract 2 of the paired Raw Materials.
+  To create the P4, you need 8 "paired" Raw Materials and 1 stand-alone Raw Material. Each of our 4 extraction planets will extract 2 of the paired Raw Materials.
      
   4. Ignoring the Raw Material used directly in the High-Tech Production Plant, select 4 extraction planets, which will extract 2 Raw Materials apiece.
      
@@ -68,7 +68,7 @@ This guide will help you design a PI chain for:
       * Noble Gas
       * Reactive Gas
      
-     By comparing U-HVIX's planet list with the material diagram, a few decisions are made for me. Reactive Gas is only available from Gas planets, so U-HIVX V will extract that. I do not have a Plasma planet, so Noble Metals will have to come from U-HIVX II or III. Non-CS Crystals only come from Lava planets, so U-HVIX I will extract that.
+  By comparing U-HVIX's planet list with the material diagram, a few decisions are made for me. Reactive Gas is only available from Gas planets, so U-HIVX V will extract that. I do not have a Plasma planet, so Noble Metals will have to come from U-HIVX II or III. Non-CS Crystals only come from Lava planets, so U-HVIX I will extract that.
      
      With a little deduction, I end up with the following extraction planet decisions:
      
@@ -129,7 +129,7 @@ For each extraction planet, build 2 clusters of extractors, basic industrial fac
   5. Click the Command Center.
   6. In the Command Center window, click the circular Upgrade button, click the maximum upgrade level, then click Submit.
   
-     **Build the facilities.**
+  **Build the facilities.**
   
   7. Click Scan, then select the first item this planet will extract.
   8. Drag the slider until there are only a few pockets of white displayed on the surface.
@@ -142,11 +142,11 @@ For each extraction planet, build 2 clusters of extractors, basic industrial fac
   15. Expand Planetary Links, then click Create Link and connect the Extractor Control Unit and the Basic Industry Facilities to the Launchpad.
   16. Click Submit.
   
-    You should now have a cluster that looks like this:
+  You should now have a cluster that looks like this:
     
-    <img src="http://i.imgur.com/xjZ4wB5.png" alt="5 facilities clustered around a Launchpad" />
+  <img src="http://i.imgur.com/xjZ4wB5.png" alt="5 facilities clustered around a Launchpad" />
     
-    **Route the materials.**
+  **Route the materials.**
   
   17. Click a Basic Industry Facility, click Schematics, find the Basic Commodity produced by this Raw Material, then click Install.
   18. Repeat for each Basic Industry Facility, then click Submit.
@@ -160,7 +160,7 @@ For each extraction planet, build 2 clusters of extractors, basic industrial fac
   26. Click Submit.
   27. Repeat steps 7 through 26 for the other Raw Material this planet will extract.
   
-If you have Interplanetary Consolidation V, set up the final Raw Material extraction facility the same way, but both sets of facilities should produce the final Basic Commodity instead of 2 separate Basic Commodities.
+  If you have Interplanetary Consolidation V, set up the final Raw Material extraction facility the same way, but both sets of facilities should produce the final Basic Commodity instead of 2 separate Basic Commodities.
 
 ### Select and Build a Factory Planet
 
@@ -171,9 +171,9 @@ If you have Interplanetary Consolidation V, set up the final Raw Material extrac
   5. Click on the Command Center.
   6. In the Command Center window, click the circular Upgrade button, click the maximum upgrade level, then click Submit.
      
-     The goal of this planet is to build a three-tiered factory system. Here's my layout:
+  The goal of this planet is to build a three-tiered factory system. Here's my layout:
      
-     <img src="http://i.imgur.com/Rbiff3G.png" alt="16 p2 factories, 4 p3 factories, 1 p4 factory, with 3 launchpads and 1 storage facility." />
+  <img src="http://i.imgur.com/Rbiff3G.png" alt="16 p2 factories, 4 p3 factories, 1 p4 factory, with 3 launchpads and 1 storage facility." />
   
   7. Click Build, expand Processors, then click <Planet Type> Advanced Industry Facility.
   8. Place sixteen Advanced Industry Facilities, in four groups of four, below the Command Center. These are the P2 creation facilities.
@@ -189,7 +189,7 @@ If you have Interplanetary Consolidation V, set up the final Raw Material extrac
   14. Place one Launchpad above the High Tech Production Plant.
   15. Click Submit.
   
-      **Build the links.**
+  **Build the links.**
   
   16. Expand Planetary Links, then click Create Link.
   17. Connect all sixteen P2 Advanced Industry Facilities to their nearest launchpad. A launchpad should only service 8 P2 Advanced Industry Facilities.
@@ -199,7 +199,7 @@ If you have Interplanetary Consolidation V, set up the final Raw Material extrac
   21. Connect the P4 High Tech Production Plant to the top launchpad.
   22. Click Submit to save the links.
   
-      **Set up schematics.**
+  **Set up schematics.**
   
   23. Click a P2 Advanced Industry Facility, click Schematics, select a Refined Commodity, then click Install.
   24. Set the same Refined Commodity schematic for each set of four P2 Advanced Industry Facilities. It is best to put the P2s that will be combined into a P3 on the same side. For example, I set Mechanical Parts and Consumer Electronics on the left side of my U-HVIX factory and I set Coolant and Oxides on the right side of my U-HVIX factory.
@@ -208,7 +208,7 @@ If you have Interplanetary Consolidation V, set up the final Raw Material extrac
   27. Click the P4 High Tech Production Plant, click Schematics, select a Advanced Commodity, then click Install.
   28. Click Submit.
   
-      **Set up the Routes.**
+  **Set up the Routes.**
   
   29. Click a P2 Advanced Industry Facility, click Products, then click the produced Refined Commodity.
   30. Click Create Route, then select the Launchpad connected to the industry facility, then click Create Route.
